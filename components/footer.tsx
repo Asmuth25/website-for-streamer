@@ -62,7 +62,7 @@ export function Footer({ config }: { config: FooterConfig }) {
               rel="noopener noreferrer"
               className="text-2xl font-bold hover:text-[var(--neon-cyan)] transition-colors"
             >
-              6zMati
+              Name
             </a>
           </motion.div>
         </div>
