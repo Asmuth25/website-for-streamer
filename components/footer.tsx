@@ -69,8 +69,7 @@ export function Footer({ config }: { config: FooterConfig }) {
 
         <div className="mt-24 pt-8 border-t border-border/50 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-muted-foreground tracking-wider font-mono flex items-center gap-2">
-            © {new Date().getFullYear()} <a href="https://bkubiak.dev" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">bkubiak.dev</a>. Made with <Heart className="w-3 h-3 text-white" /> in
-            Poland
+            © {new Date().getFullYear()} <a href="https://bkubiak.dev" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">bkubiak.dev</a>. Made with <Heart className="w-3 h-3 text-white" />
           </p>
           <div className="flex items-center gap-6">
             <a
